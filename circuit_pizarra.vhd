@@ -1,4 +1,4 @@
--- Christian José Soler
+--  
 -- entidad de pizarra
 
 ENTITY circuit IS

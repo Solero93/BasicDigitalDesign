@@ -1,4 +1,4 @@
--- Christian José Soler
+--  
 -- xor2
 
 -- entidad xor2

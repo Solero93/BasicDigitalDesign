@@ -1,4 +1,4 @@
--- Christian José Soler
+--  
 -- funció3
 
 -- d) s'han comprovat les diferencies i es justifiquen amb el fet de que el retard amb el temps s'acumula i fa que hi hagi aquesta diferéncia amb l'apartat c)

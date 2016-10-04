@@ -1,4 +1,4 @@
--- Christian José Soler, 
+--  , 
 -- inversor, or2, and2, or3, and3, or4, and4, xor2
 
 -- entidad inversor

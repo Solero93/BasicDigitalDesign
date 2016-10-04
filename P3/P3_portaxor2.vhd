@@ -1,4 +1,4 @@
--- Christian José Soler
+--  
 -- banc de proves de xor2 estructural
 
 ENTITY bdp_xor IS
